@@ -1,0 +1,17 @@
+{
+  "name": "flow-types",
+  "version": "1.0.0",
+  "description": "CLI to manage flow types",
+  "main": "index.js",
+  "bin": {
+    "flow-types": "./bin/flow-types.js"
+  },
+  "scripts": {
+    "test": "exit 0"
+  },
+  "author": "Vladimir Kurchatkin <vladimir.kurchatkin@gmail.com>",
+  "license": "MIT",
+  "dependencies": {
+    "rimraf": "^2.5.2"
+  }
+}
